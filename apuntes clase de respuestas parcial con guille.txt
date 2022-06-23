@@ -1,0 +1,5 @@
+El objeto SOLAMENTE tiene un estado. y es el
+ conjunto de atributos del objeto. seria lo que le sigue a self.
+(self.puntos)
+
+
