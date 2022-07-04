@@ -14,9 +14,13 @@ print("Se almacenan:",len(breeds.json()["message"]),"breeds.")
 
 print(breeds.json()["message"][11])
 
-# Esta es la url que esperaria para ver las imagenes de boxer por el hecho de que es el elemnto 11 https://dog.ceo/api/breeds/list/11/images ,
-# tambien podria esperar."https://dog.ceo/api/breeds/list/boxer/images .
+# Esta es la url que esperaria para ver las imagenes de boxer por el hecho de que es el elemnto 11 https://dog.ceo/api/breeds/11/images ,
+# tambien podria esperar."https://dog.ceo/api/breeds/boxer/images .
 
-https://dog.ceo/api/breeds/list/boxer/images
+Boxer = (breeds.json()["message"][11])
 
- https://images.dog.ceo/breeds/boxer/boxer.jpg
+with open("recursos/cocker_cute.png", 'w') as file:  
+    file.write(str("https:\/\/images.dog.ceo\/breeds\/boxer\/28082007167-min.jpg"))
+
+ # "https:\/\/images.dog.ceo\/breeds\/boxer\/28082007167-min.jpg"
+
