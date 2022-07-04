@@ -1,0 +1,1013 @@
+ID,Tipo comida,Ingreso estimado,Frecuencia mensual,Gasto estimado,Horario
+1,Ensalada,54.58,0.24,5.82,Noche
+2,Vegana,656.52,0.2,273.31,Noche
+3,Vegana,624.3,0.25,282.08,Noche
+4,Ensalada,,0.24,,Día
+5,Pizza,580.01,0.11,417.78,Noche
+6,Pizza,439.1,-0.18,222.18,Noche
+7,Ensalada,541.8,0.18,366.88,Noche
+8,Empanada,387.73,0.16,206.83,Día
+9,Sandwich,543.67,0.27,375.13,Día
+10,Papa Frita,423.84,0.2,357,Noche
+11,Vegana,681.45,0.23,237.6,Día
+12,Pasta,529.02,0.22,46.07,Día
+13,Empanada,351.44,0.25,245.56,Noche
+14,Pasta,519.73,0.19,156.78,Día
+15,Papa Frita,480.08,0.18,119.72,Noche
+16,Comida Casera,490.96,0.2,277.56,Noche
+16,Comida Casera,490.96,0.2,277.56,Noche
+17,Pizza,309.42,,265.89,Día
+18,Ensalada,506.14,0.29,93,Noche
+19,Sushi,455.24,0.18,184.4,Noche
+20,Sushi,464.95,0.23,347.03,Día
+21,Pasta,372.2,0.18,131.91,Día
+22,Ensalada,515.54,0.15,65.86,Día
+23,Pasta,627.37,0.19,197.78,Día
+24,Sushi,619.81,0.23,183.89,Noche
+25,Empanada,389.64,0.18,304.23,Día
+26,Ensalada,426,0.2,88.78,Noche
+27,Empanada,333.86,0.24,355.58,Día
+28,Papa Frita,570.04,0.2,226.45,Noche
+29,Empanada,321.79,0.28,239.2,Noche
+30,Sushi,529.19,0.15,161.7,Día
+31,Ensalada,485.49,0.22,204.71,Noche
+32,Vegana,484.33,0.2,304.39,Día
+33,Empanada,550.85,0.18,318.32,Día
+34,Pizza,603.09,0.23,236.62,Noche
+35,Empanada,603,0.18,258.49,Día
+36,Comida Casera,596.25,0.17,366.94,Noche
+37,Sushi,600.82,0.1,266.27,Noche
+38,Empanada,287.1,0.28,170.96,Día
+39,Hamburguesa,463.85,0.22,221.03,Día
+40,Pasta,555.37,0.07,182.75,Día
+41,Ensalada,402.15,0.16,394.71,Noche
+42,Comida Casera,541.72,1.17,267.55,Día
+43,Papa Frita,615.49,0.19,185.4,Día
+44,Hamburguesa,477.93,0.19,226.21,Día
+45,Pasta,476.8,0.25,223.86,Día
+46,Sushi,497.06,0.24,368.54,Día
+47,Pasta,52.3,0.25,254.01,Noche
+48,Sushi,563.06,0.16,376.4,Día
+49,Papa Frita,631.74,0.34,241.93,Noche
+50,Hamburguesa,541.04,0.28,434.78,Noche
+51,Pizza,461.58,0.19,405.32,Noche
+52,Empanada,313.35,0.21,262.3,Noche
+53,Pizza,412.67,0.18,348.56,Noche
+54,Empanada,659.86,0.18,457.4,Noche
+55,Comida Casera,459.03,0.27,317.94,Noche
+56,Pasta,433.47,0.17,170.41,Noche
+57,Hamburguesa,275.12,0.2,152.53,Día
+58,Sushi,468.85,0.21,327.35,Día
+59,Pizza,585.63,0.23,298.08,Día
+60,Vegana,694.36,0.16,237.27,Noche
+61,Vegana,670.9,0.12,151.41,Noche
+62,Comida Casera,512.77,0.31,233.1,Día
+63,Ensalada,310.01,0.21,216.53,Noche
+63,Ensalada,310.01,0.21,216.53,Noche
+64,Ensalada,698.2,0.22,247.39,Día
+65,Ensalada,478.46,0.18,349.97,Noche
+66,Sandwich,515.48,0.16,283.37,Día
+67,Hamburguesa,,0.26,,Noche
+68,Papa Frita,513.43,0.2,213.98,Día
+69,Vegana,729.06,0.18,241.53,Noche
+70,Comida Casera,562.12,0.27,39.92,Día
+71,Ensalada,733.83,0.27,56.68,Día
+72,Ensalada,442.75,0.21,365.97,Noche
+73,Vegana,500.25,0.26,321.68,Noche
+74,Sushi,468.74,0.13,182.35,Día
+75,Comida Casera,301.41,0.18,230.35,Día
+76,Empanada,28.6,0.15,322.72,Noche
+77,Sushi,733.85,0.15,98.39,Día
+78,Vegana,400.29,0.15,335.42,Noche
+79,Sandwich,491.7,0.21,501.66,Día
+80,Empanada,468.76,0.21,263.12,Día
+81,Papa Frita,793.29,,180.7,Noche
+82,Hamburguesa,333.28,0.15,236.09,Noche
+83,Hamburguesa,591.43,1.18,166.49,Noche
+84,Ensalada,361.2,0.14,223.43,Noche
+85,Sandwich,462.6,-0.2,354.87,Noche
+86,Pasta,646.71,0.24,284.76,Día
+87,Hamburguesa,343.23,0.28,141.86,Noche
+88,Empanada,674.64,0.16,223.29,Noche
+89,Pasta,455.87,0.22,150.78,Día
+90,Sushi,499.49,0.27,2.82,Día
+91,Pasta,436.72,0.21,70.03,Noche
+92,Papa Frita,489.43,0.23,165.83,Noche
+93,Papa Frita,697.75,0.19,9.56,Día
+94,Pizza,498.48,0.31,234.35,Noche
+95,Papa Frita,293.66,0.21,205.88,Noche
+96,Pizza,415.25,0.16,154.14,Día
+97,Sandwich,477.28,0.11,396.56,Noche
+98,Empanada,569.06,0.16,364.04,Día
+99,Ensalada,546.37,0.25,375.94,Noche
+100,Vegana,406.36,0.18,256.03,Día
+101,Pasta,560.1,0.23,344.05,Noche
+102,Papa Frita,392.39,0.3,196.35,Noche
+103,Papa Frita,357.74,0.24,352.97,Día
+104,Pasta,604.59,0.26,348.34,Día
+105,Pizza,441.39,0.2,164.2,Noche
+106,Pasta,569.68,0.18,250.23,Día
+107,Empanada,690.57,0.3,377.77,Noche
+108,Pasta,779.37,0.17,253.86,Día
+109,Hamburguesa,631.24,0.2,36.21,Noche
+110,Pasta,486.23,0.15,140.39,Noche
+111,Pizza,468.62,0.21,405.55,Día
+112,Comida Casera,511.43,0.23,279.56,Noche
+113,Ensalada,557.04,0.23,190.84,Día
+114,Vegana,629.6,0.22,,22.25
+115,Hamburguesa,223.16,0.12,294.05,Noche
+116,Sandwich,747.13,0.24,208.64,Noche
+117,Sushi,509.6,0.28,286.04,Día
+118,Sushi,454.79,0.13,280.1,Día
+119,Hamburguesa,459.8,0.25,80,Día
+120,Sushi,474.35,0.17,209.4,Día
+121,Hamburguesa,544.42,0.19,370.11,Día
+121,Hamburguesa,544.42,0.19,370.11,Día
+122,Hamburguesa,602.49,0.17,227.9,Día
+123,Comida Casera,560.33,0.15,211.53,Noche
+124,Papa Frita,,0.18,,Noche
+125,Sushi,466.72,0.25,180.19,Noche
+126,Empanada,583.24,-0.16,264.69,Noche
+127,Vegana,158.27,0.16,489.41,Noche
+128,Comida Casera,606.33,0.19,412.72,Noche
+129,Vegana,39.09,0.2,341.58,Día
+130,Vegana,491.42,0.18,235.28,Día
+131,Hamburguesa,485.33,0.2,225.83,Día
+132,Ensalada,580.78,1.19,308.75,Noche
+133,Pasta,343,0.21,295.06,Día
+134,Ensalada,387.51,0.21,295.67,Día
+135,Hamburguesa,537.96,0.26,229.12,Noche
+136,Empanada,469.97,0.23,256.17,Día
+137,Vegana,550.99,0.13,291.66,Noche
+138,Sandwich,638.74,0.23,107.57,Día
+139,Vegana,377.11,0.18,324.42,Noche
+140,Ensalada,686.18,0.18,135.73,Noche
+141,Ensalada,443.86,0.23,294.53,Noche
+142,Hamburguesa,594.83,0.16,139.85,Día
+143,Ensalada,555.62,0.25,336.6,Día
+144,Hamburguesa,383.47,0.18,301.98,Noche
+145,Hamburguesa,539.46,0.15,282.91,Noche
+146,Sandwich,312.53,0.1,351.23,Día
+147,Papa Frita,662.27,,86.11,Día
+148,Ensalada,723.95,0.18,532.17,Noche
+149,Hamburguesa,327.19,0.23,325.84,Noche
+150,Pizza,375.78,0.15,201.78,Día
+151,Ensalada,477.31,0.12,115.97,Día
+152,Papa Frita,437.77,0.22,194.03,Noche
+153,Ensalada,575.9,0.26,260.81,Día
+154,Pasta,601.53,0.18,278.86,Día
+155,Ensalada,641.5,0.16,228.39,Noche
+156,Hamburguesa,724.66,0.17,49.16,Día
+157,Sandwich,388.92,0.16,259.09,Día
+158,Pasta,457.39,0.16,310.6,Noche
+159,Empanada,480.7,0.23,377.91,Noche
+160,Hamburguesa,259.29,0.33,500.02,Noche
+161,Empanada,603.82,0.15,6.73,Noche
+162,Papa Frita,365.31,0.24,123.31,Día
+163,Comida Casera,178.09,0.14,226.83,Noche
+164,Sushi,562.94,0.19,195.91,Día
+165,Hamburguesa,389.55,0.21,387.17,Día
+166,Vegana,389.64,0.14,300.92,Noche
+167,Papa Frita,230.09,0.18,209.24,Noche
+168,Comida Casera,424.51,0.19,238.46,Noche
+169,Comida Casera,468.55,0.26,199.83,Día
+170,Pizza,551.5,0.25,235.21,Día
+171,Empanada,675.11,0.2,261.13,Día
+172,Pasta,447.15,0.2,194.77,Día
+173,Sandwich,655.43,0.2,428.57,Noche
+173,Sandwich,655.43,0.2,428.57,Noche
+174,Vegana,491.97,-0.15,184.81,Día
+175,Vegana,379.12,0.17,238.03,Día
+176,Empanada,398.32,0.22,130.62,Noche
+177,Empanada,378.51,0.19,170.61,Noche
+178,Vegana,450.58,0.22,120.88,Día
+179,Hamburguesa,559.07,0.23,340.2,Día
+180,Hamburguesa,333.41,0.22,378.17,Día
+181,Hamburguesa,550.38,0.13,268.81,Día
+182,Sandwich,351.33,0.22,210.54,Día
+183,Pasta,522.39,0.25,334.58,Día
+184,Empanada,299.61,0.35,486.58,Día
+185,Comida Casera,464.96,0.24,26.03,Día
+186,Papa Frita,480.65,0.17,320.77,Día
+187,Comida Casera,474.05,0.18,295.65,Día
+188,Ensalada,427.59,0.24,227.07,Noche
+189,Pizza,476.43,0.21,206.79,Día
+190,Pizza,356.79,0.17,368.99,Día
+191,Sushi,577.03,0.19,267.19,Noche
+192,Pasta,460.21,0.15,183.81,Día
+193,Pasta,346.33,0.13,215.23,Día
+194,Pasta,553.71,0.17,334.92,Día
+195,Ensalada,439.25,0.27,289.94,Noche
+196,Ensalada,,0.21,,Noche
+197,Empanada,383.6,0.21,261.31,Noche
+198,Sandwich,481.68,0.23,348.29,Noche
+199,Ensalada,356.85,0.31,257.16,Día
+200,Comida Casera,379.31,0.19,268.64,Noche
+201,Papa Frita,57.6,0.2,236.56,Noche
+202,Pizza,637.02,0.14,193.15,Noche
+203,Sushi,417.63,0.19,298.43,Día
+204,Ensalada,685.77,0.21,278.84,Día
+205,Hamburguesa,382.84,0.15,446.45,Noche
+206,Papa Frita,443.94,0.16,69.69,Día
+207,Hamburguesa,375.69,0.23,271.93,Noche
+208,Pasta,445.79,0.18,247.15,Día
+209,Ensalada,549.7,0.16,325.88,Noche
+210,Vegana,616.04,0.21,322.64,Noche
+211,Sandwich,482.69,0.18,279.87,Día
+212,Papa Frita,370.89,0.25,250.78,Noche
+213,Pasta,559.45,,323.45,Día
+214,Sushi,721.3,0.22,230.19,Noche
+215,Hamburguesa,455.04,0.21,170.36,Día
+216,Papa Frita,666.92,0.22,145.74,Día
+217,Vegana,367.09,0.14,379.8,Noche
+218,Pasta,700.18,0.13,266.6,Día
+219,Pasta,786.39,0.23,183.51,Día
+220,Sushi,702.34,0.22,248.67,Día
+221,Papa Frita,447.92,0.17,262.62,Día
+222,Pizza,467.45,0.18,197.72,Día
+223,Pasta,545.89,0.15,369.91,Noche
+224,Empanada,477.93,0.27,45.64,Noche
+225,Vegana,326.71,0.23,394.91,Día
+226,Sushi,455.31,0.16,280,Noche
+227,Comida Casera,570.58,0.24,128.97,Día
+228,Pizza,445.03,0.22,218.53,Día
+229,Ensalada,622.3,0.17,292.83,Noche
+230,Pasta,536.62,0.15,,5.07
+231,Comida Casera,578.72,0.17,199.06,Noche
+232,Sushi,530.42,0.21,201.12,Noche
+233,Sandwich,444.84,0.19,258.89,Noche
+234,Pizza,571.52,0.27,209.81,Día
+235,Ensalada,649.29,0.16,287.77,Noche
+236,Hamburguesa,328.83,0.17,236.67,Noche
+237,Pizza,484.88,0.16,431.47,Día
+238,Sandwich,375.08,0.2,188.39,Noche
+239,Pasta,623.17,0.25,198.21,Día
+240,Sushi,523.68,0.16,263.03,Noche
+241,Sushi,455.46,0.23,126.57,Día
+242,Papa Frita,479.41,0.16,183.92,Noche
+243,Comida Casera,456.88,0.14,401.39,Día
+244,Empanada,713.15,0.15,382.07,Noche
+245,Vegana,354.51,0.26,3.61,Noche
+246,Sushi,552.26,0.18,247.13,Noche
+247,Empanada,477.7,0.2,328.68,Noche
+248,Sandwich,534.25,0.23,304.41,Noche
+249,Sandwich,424.96,0.2,118.47,Día
+250,Papa Frita,679.16,0.2,288.72,Noche
+251,Empanada,395.48,0.21,278.56,Día
+252,Pasta,462.2,0.23,330.65,Día
+253,Sushi,504.87,0.27,338.46,Noche
+254,Ensalada,484.14,0.26,157.52,Noche
+255,Papa Frita,38.3,0.17,340.38,Noche
+256,Pasta,406.3,0.21,250.63,Día
+257,Sushi,593.21,0.16,361.99,Día
+258,Papa Frita,582.47,0.15,366.66,Noche
+259,Vegana,638.67,0.21,224.22,Día
+260,Sushi,516.3,0.18,324.42,Noche
+261,Vegana,488.15,0.21,204.76,Día
+262,Papa Frita,546.78,0.14,399.11,Noche
+263,Comida Casera,551.48,0.17,228.19,Día
+264,Empanada,559.25,0.16,235.03,Noche
+265,Ensalada,330.16,0.18,356.09,Día
+266,Papa Frita,,0.16,,Día
+267,Papa Frita,487.03,0.31,195.66,Noche
+268,Ensalada,442.8,0.24,350.63,Día
+269,Empanada,238.92,0.26,271.15,Día
+270,Comida Casera,592.53,1.22,280.15,Día
+271,Sushi,546.94,0.2,238.67,Noche
+272,Pasta,438.67,0.26,252.87,Día
+273,Papa Frita,424.41,0.19,178.79,Noche
+274,Papa Frita,280.17,0.18,228.57,Día
+275,Pizza,492,0.22,316.56,Día
+276,Pasta,551.42,0.2,264.25,Noche
+277,Sushi,739.63,0.24,296.24,Día
+278,Hamburguesa,475.4,0.19,426.17,Día
+279,Hamburguesa,623.16,0.14,190.44,Noche
+279,Hamburguesa,623.16,0.14,190.44,Noche
+280,Sandwich,385.74,0.2,343.55,Día
+281,Comida Casera,550.65,0.14,318.75,Noche
+282,Hamburguesa,401.89,0.17,242.22,Noche
+283,Ensalada,594.74,0.17,234.48,Noche
+284,Ensalada,445.8,0.19,394.21,Noche
+285,Empanada,545.29,,239.91,Noche
+286,Empanada,441.7,0.2,225.13,Noche
+287,Sandwich,460.29,0.14,323.94,Noche
+288,Vegana,437.84,0.21,257.23,Día
+289,Papa Frita,483.14,0.14,108.74,Día
+290,Comida Casera,605.93,0.17,166.21,Noche
+291,Pizza,389.16,0.11,254.79,Día
+292,Papa Frita,403.25,0.21,267.42,Noche
+293,Hamburguesa,378.22,0.13,367.76,Noche
+294,Papa Frita,516.39,0.25,270.45,Día
+295,Pasta,476.41,0.29,355.65,Día
+296,Sushi,702.6,0.23,249.46,Día
+297,Ensalada,552.42,0.19,300.15,Noche
+298,Hamburguesa,512.14,0.2,226.81,Día
+299,Sushi,611.48,0.21,326.43,Noche
+300,Papa Frita,655.46,0.22,330.82,Noche
+301,Sandwich,494.54,0.14,103.1,Noche
+302,Empanada,522.34,0.2,374.61,Día
+303,Comida Casera,893.99,0.16,400.85,Noche
+304,Vegana,258.43,0.24,326.7,Día
+305,Hamburguesa,480.31,0.29,358.31,Día
+306,Vegana,552.24,0.24,299,Día
+307,Empanada,324.07,0.31,269.45,Día
+308,Papa Frita,417.17,0.21,281.54,Día
+309,Pasta,598.65,0.22,182.21,Noche
+310,Empanada,575.86,0.23,323.56,Noche
+311,Ensalada,526.92,0.18,372.29,Noche
+312,Comida Casera,296.57,0.19,406.52,Noche
+313,Comida Casera,376.48,0.22,253.16,Día
+314,Empanada,500.75,0.19,215.74,Noche
+315,Sandwich,619.32,0.17,399.01,Noche
+316,Empanada,447.08,0.22,333.71,Día
+317,Sushi,562.61,0.1,309.91,Noche
+318,Pasta,304.56,0.16,289.69,Día
+319,Empanada,97.94,0.24,428.65,Día
+320,Ensalada,413.51,0.31,243.87,Noche
+321,Comida Casera,175.2,0.11,158.93,Noche
+322,Pizza,381.75,0.14,281.02,Noche
+323,Comida Casera,470.06,0.23,320.16,Noche
+324,Comida Casera,430.9,0.25,184.47,Día
+325,Vegana,489.59,0.07,131.6,Noche
+326,Empanada,362.36,0.17,405.6,Noche
+327,Hamburguesa,422.37,0.26,461.13,Día
+328,Ensalada,290,0.15,204.35,Noche
+329,Papa Frita,620.85,0.13,268,Noche
+330,Hamburguesa,424.22,0.22,370.2,Día
+331,Hamburguesa,495.14,0.4,207.1,Noche
+332,Empanada,530.83,0.49,3.63,Día
+333,Empanada,362.13,0.4,134.93,Noche
+334,Sushi,543.86,0.55,339.86,Día
+335,Empanada,547.35,0.54,184.93,Día
+336,Ensalada,413.04,0.53,123.97,Día
+337,Pasta,391.83,0.48,279.43,Noche
+338,Ensalada,569.69,0.47,389.18,Día
+339,Hamburguesa,653.58,0.53,282.29,Día
+340,Ensalada,459.08,0.51,231.65,Noche
+340,Ensalada,459.08,0.51,231.65,Noche
+341,Comida Casera,1302.93,0.45,910.84,Noche
+342,Ensalada,1136.99,0.55,704.89,Día
+343,Hamburguesa,958.42,0.39,778.78,Noche
+344,Sandwich,1054.28,0.56,714.83,Día
+345,Comida Casera,1161.75,0.52,773.13,Día
+346,Vegana,1044.49,0.46,876.35,Noche
+347,Ensalada,1182.88,0.43,833.98,Día
+348,Pizza,1185.05,0.46,674.12,Noche
+349,Pasta,1006.75,0.5,804.09,Día
+350,Ensalada,987.35,0.41,695.9,Día
+351,Pasta,1087.35,0.5,801.81,Noche
+352,Empanada,1009.79,0.48,698.16,Día
+353,Sandwich,1286.25,0.57,803.89,Noche
+354,Sushi,981.92,0.41,752.82,Noche
+355,Ensalada,957.86,0.58,773.64,Día
+356,Ensalada,1061.43,0.51,1032.53,Noche
+357,Vegana,1034.69,0.42,722.65,Noche
+358,Pizza,1266.31,0.62,601.73,Noche
+359,Vegana,1136.97,0.45,782.38,Día
+360,Pizza,1039.77,0.5,645.24,Día
+361,Sushi,1200.23,0.53,959.42,Noche
+362,Vegana,1064.21,0.5,685.2,Noche
+363,Hamburguesa,1257.76,,673.88,Día
+364,Vegana,947.65,0.49,937.61,Noche
+365,Pizza,942.38,0.38,926.32,Día
+366,Vegana,1053.72,0.55,862.72,Día
+367,Empanada,48.4,0.47,894.97,Día
+368,Vegana,884.31,0.43,719.14,Noche
+369,Pizza,2270.83,0.51,662.66,Noche
+370,Sushi,,0.39,,Noche
+371,Ensalada,1180.37,0.45,863.68,Noche
+372,Hamburguesa,1523.25,0.54,789.46,Noche
+373,Empanada,1138,0.48,694.7,Día
+374,Hamburguesa,1136.37,0.57,877.26,Noche
+375,Pasta,1015.79,0.54,819.72,Noche
+376,Ensalada,969.58,0.49,698.33,Noche
+377,Hamburguesa,1184.41,0.43,830.96,Día
+378,Ensalada,1060.75,0.44,614.55,Día
+379,Sandwich,997.9,0.46,763.06,Noche
+380,Vegana,1079.58,0.57,814.99,Noche
+381,Pizza,1073.45,0.63,965.22,Noche
+382,Hamburguesa,1133.95,0.49,631.95,Noche
+383,Empanada,1330.33,0.53,834.93,Día
+384,Comida Casera,1105.23,0.53,765.9,Día
+385,Pizza,1156.58,0.54,646.71,Día
+386,Comida Casera,1043.05,0.55,986.19,Noche
+387,Sushi,1004.01,0.52,818.09,Día
+388,Pizza,1243.56,0.47,585.11,Día
+389,Pizza,1205.16,0.51,932.24,Día
+390,Sushi,966.24,0.52,779.18,Día
+391,Sushi,1265.16,0.5,673.94,Noche
+392,Empanada,1034.91,0.55,597.09,Día
+393,Empanada,1112.75,0.5,660.97,Noche
+394,Sushi,1037.13,0.49,874.42,Día
+395,Pizza,1322.9,0.5,782.04,Día
+396,Vegana,1093.97,0.44,813.02,Noche
+397,Papa Frita,1071.7,0.51,704.41,Noche
+398,Ensalada,1196.51,0.55,703.63,Noche
+399,Empanada,1077.73,0.5,707.24,Noche
+400,Ensalada,1208.26,0.55,526.43,Día
+401,Sandwich,1128.72,0.4,676.12,Día
+402,Comida Casera,945.59,0.51,719.34,Noche
+403,Sandwich,1092.83,0.4,621.62,Noche
+404,Hamburguesa,1088.19,0.53,610.66,Día
+405,Sushi,1339.1,0.5,677.8,Día
+406,Pasta,1330.02,0.5,795.5,Noche
+407,Pizza,789.76,0.5,812.51,Noche
+408,Vegana,1331.96,0.5,668.6,Día
+409,Pizza,926.17,0.56,843.38,Día
+410,Empanada,1146.08,0.44,571.3,Noche
+411,Papa Frita,882.64,0.48,800.52,Día
+412,Sandwich,1133.14,0.53,1927.95,Noche
+413,Empanada,1226.88,0.54,690.12,Día
+414,Comida Casera,1285.91,0.49,632.29,Día
+415,Papa Frita,1157.98,0.54,748.43,Día
+416,Papa Frita,924.33,0.46,783.18,Noche
+417,Pizza,1183.16,0.42,719.3,Noche
+418,Pasta,1039.72,0.48,724.85,Día
+419,Hamburguesa,1206.35,0.5,793.27,Noche
+420,Sandwich,1207.32,0.52,786.29,Día
+421,Vegana,1095.36,0.47,850.66,Día
+422,Pasta,1276.02,0.48,671.2,Noche
+423,Pizza,921.26,0.53,736.91,Noche
+424,Pizza,1114.84,0.49,730.85,Día
+425,Pizza,858.15,0.57,736.86,Día
+426,Sandwich,1160.79,0.5,655.11,Noche
+427,Papa Frita,991.84,0.48,785.54,Noche
+428,Comida Casera,1211.61,0.44,912.64,Noche
+429,Papa Frita,1173.76,0.47,671.12,Noche
+430,Sandwich,1267.3,0.53,732.71,Día
+431,Sandwich,1034.85,0.54,724.81,Día
+432,Ensalada,994.67,0.6,919.88,Noche
+433,Hamburguesa,1203.14,0.52,834.5,Día
+434,Vegana,1052.03,0.56,676.83,Noche
+435,Sushi,1154.24,0.45,666.84,Noche
+436,Sandwich,1032.99,0.48,761.55,Noche
+437,Sandwich,1214.86,0.54,702.69,Día
+438,Pizza,1058.35,0.53,909.61,Día
+439,Vegana,1052.17,0.44,855.11,Día
+440,Hamburguesa,1079.25,0.55,717.5,Día
+441,Pasta,757.33,,893.75,Día
+442,Hamburguesa,1076.3,0.5,660.73,Día
+443,Comida Casera,1159.45,0.54,651.85,Noche
+444,Empanada,1286.85,0.55,833.89,Día
+445,Papa Frita,1015.93,0.5,762.13,Día
+446,Sushi,1361.76,0.56,553.95,Día
+447,Sushi,960.41,0.35,762.23,Día
+448,Sandwich,1249.28,0.55,679.35,Noche
+449,Sandwich,1131.28,0.46,608.49,Noche
+450,Comida Casera,1009.02,0.47,830.98,Día
+450,Comida Casera,1009.02,0.47,830.98,Día
+451,Sandwich,1176.42,0.48,792.7,Noche
+452,Empanada,2379.69,0.47,852.18,Noche
+453,Pasta,1091.05,0.43,704.9,Noche
+454,Sushi,996.95,0.55,685.51,Día
+455,Vegana,1067.23,0.51,613.37,Día
+456,Pasta,1242.1,0.58,811.27,Noche
+457,Ensalada,1186.96,0.56,717.22,Día
+458,Empanada,913.43,0.52,606.44,Noche
+459,Pizza,1242.57,0.42,907.97,Día
+460,Pizza,1196.83,0.4,620.07,Día
+461,Vegana,917.95,0.49,543.27,Día
+462,Papa Frita,1125.02,0.51,701.3,Día
+463,Pasta,1347.34,0.49,672.24,Noche
+464,Ensalada,973.05,0.57,729.3,Noche
+465,Pasta,1162.25,0.51,553.15,Noche
+466,Ensalada,988.13,0.54,786.44,Noche
+467,Empanada,1188.88,0.48,658.99,Noche
+468,Sushi,1201.84,0.43,701.36,Día
+469,Sushi,921.78,0.48,768.02,Día
+470,Ensalada,1226.01,0.5,767.13,Noche
+471,Vegana,1045.03,0.5,759.77,Noche
+472,Empanada,1138.94,0.58,791.53,Día
+473,Sushi,1081.58,0.43,699.71,Noche
+474,Pizza,1119.65,0.56,638.83,Día
+475,Papa Frita,934.38,0.44,597.48,Noche
+476,Pasta,1235.21,0.5,731.59,Día
+477,Papa Frita,1224.77,0.51,640.47,Día
+478,Ensalada,1046.61,0.49,555.8,Noche
+479,Vegana,,0.49,,Noche
+480,Ensalada,1049.01,0.56,597.81,Noche
+481,Hamburguesa,1507.66,0.53,788.47,Noche
+482,Empanada,957.94,0.48,806.87,Noche
+483,Ensalada,1085.78,0.48,698.06,Noche
+484,Sushi,2284.44,0.48,561.96,Noche
+485,Ensalada,1231.76,0.55,9.72,Noche
+486,Empanada,1376.95,0.43,960.52,Día
+487,Papa Frita,1285.56,0.56,695.19,Noche
+488,Sandwich,905.48,0.47,688.06,Día
+489,Vegana,1052.16,0.55,898.75,Día
+490,Sandwich,1076.67,0.54,807.24,Día
+491,Papa Frita,1334.84,0.47,810.8,Día
+492,Hamburguesa,1039.53,0.49,817.91,Día
+493,Vegana,1120.98,0.5,652.92,Noche
+494,Comida Casera,1129.66,0.51,674.29,Día
+495,Pizza,826.5,,741.1,Noche
+496,Comida Casera,983.29,0.56,788.57,Día
+497,Sushi,1142.97,0.48,758.28,Día
+498,Pizza,1114.14,0.44,852.27,Día
+499,Vegana,1204.26,0.5,835.54,Día
+500,Comida Casera,1239.23,0.54,674.86,Día
+501,Sandwich,1126.08,0.51,822.19,Noche
+502,Hamburguesa,1128.09,0.58,655.8,Noche
+503,Empanada,1140.37,0.54,571.87,Día
+504,Pasta,1108.84,0.45,744.34,Día
+505,Pizza,1162.51,0.51,794.35,Noche
+506,Vegana,987.38,0.49,861.7,Noche
+507,Comida Casera,977.34,0.54,731,Noche
+508,Hamburguesa,1196.32,0.52,1942.49,Noche
+509,Hamburguesa,1129.27,0.54,695.36,Noche
+510,Comida Casera,1081.28,0.49,679.31,Noche
+511,Papa Frita,1154.15,0.55,585.39,Noche
+512,Pizza,1087.26,0.52,750.71,Día
+513,Empanada,1011.46,0.48,698.07,Noche
+514,Sandwich,1306.07,0.45,825.66,Día
+515,Sushi,931.74,0.51,405,Día
+516,Pizza,1181.17,0.5,857.97,Noche
+517,Hamburguesa,1190.37,0.53,743.29,Noche
+518,Empanada,1033.26,0.58,815.45,Día
+519,Empanada,1021.09,0.54,795.52,Noche
+520,Pizza,1194.24,0.38,857.86,Noche
+521,Comida Casera,2378.86,0.5,706.83,Día
+522,Empanada,1106.95,0.54,740.25,Noche
+523,Vegana,1140.4,0.52,788.48,Noche
+524,Empanada,905.17,0.44,770.27,Noche
+525,Pasta,1150.01,0.5,750.35,Noche
+526,Pasta,1070.88,0.52,827.65,Día
+527,Sandwich,1057.29,0.55,693.12,Día
+528,Pizza,1161.26,0.55,703.32,Día
+529,Empanada,1402.21,0.6,807.07,Noche
+530,Ensalada,1170.09,0.53,826.76,Día
+531,Ensalada,1094.95,0.51,786.26,Noche
+532,Empanada,963.7,0.52,728.3,Noche
+533,Empanada,1124.18,0.5,751.38,Día
+534,Papa Frita,1017.79,0.5,689.2,Noche
+535,Comida Casera,1233.2,0.53,735.1,Noche
+536,Sushi,1113.21,0.43,788.89,Día
+537,Hamburguesa,1138.23,0.53,898.55,Noche
+538,Ensalada,1318.67,0.53,779.42,Día
+539,Empanada,1246.54,0.53,812.67,Día
+540,Papa Frita,1200.98,0.57,691.45,Noche
+541,Sushi,960.39,0.47,765.81,Noche
+542,Empanada,1077.11,0.51,811.63,Día
+543,Ensalada,1050.71,,891.48,Noche
+544,Hamburguesa,889.3,0.46,709.35,Noche
+545,Empanada,988.93,0.5,1821.17,Noche
+546,Sandwich,927.68,0.56,866.77,Noche
+547,Empanada,1015.73,0.51,965,Noche
+548,Comida Casera,1133.18,0.52,612.82,Noche
+549,Comida Casera,976.51,0.54,707.26,Día
+550,Pasta,1256.55,0.49,939.56,Noche
+551,Empanada,1324.21,0.47,721.5,Noche
+552,Sandwich,866.69,0.37,685.37,Noche
+553,Ensalada,1007.02,0.54,759.07,Día
+554,Pizza,1104.82,0.53,580.15,Día
+555,Pizza,949.17,0.49,804.64,Día
+556,Empanada,1228.78,0.51,741.69,Noche
+557,Vegana,926.44,0.53,814.66,Noche
+558,Papa Frita,2241.46,0.48,701.87,Día
+559,Pasta,1108.9,0.41,754.65,Día
+560,Pasta,1113.41,0.4,725.25,Día
+561,Empanada,847.62,0.46,563.08,Día
+562,Sushi,910.65,0.5,683.79,Día
+563,Papa Frita,1164.12,0.43,617.88,Día
+564,Empanada,1065.59,0.45,752.91,Día
+565,Comida Casera,1295.79,0.48,822.25,Noche
+566,Pizza,1151.81,0.55,913.36,Día
+567,Sushi,1095.81,0.5,678.87,Noche
+568,Empanada,978.99,0.51,642.56,Día
+569,Empanada,1140.72,0.51,691.85,Noche
+570,Comida Casera,1438.85,0.46,562.58,Noche
+570,Comida Casera,1438.85,0.46,562.58,Noche
+571,Pizza,1198.6,0.56,632.97,Noche
+572,Hamburguesa,1160.31,0.46,772.98,Noche
+573,Empanada,1062.88,0.44,511.21,Noche
+574,Comida Casera,995.96,0.52,644.27,Día
+575,Hamburguesa,1247.94,0.51,799.84,Día
+576,Ensalada,1170.3,0.5,803.75,Día
+577,Sandwich,1021.11,0.49,652.21,Día
+578,Vegana,1170.44,0.55,730.15,Día
+579,Empanada,1134.88,0.47,853.48,Día
+580,Pasta,932.89,0.52,899.07,Día
+581,Comida Casera,1052.6,0.47,693.36,Día
+582,Vegana,1166.67,0.47,756.31,Día
+583,Empanada,1071.41,0.57,652.79,Día
+584,Vegana,990.03,0.47,716.09,Día
+585,Papa Frita,1116.98,0.52,520.13,Día
+586,Vegana,1336.52,0.43,706.28,Noche
+587,Sandwich,1116.83,0.53,619.59,Día
+588,Ensalada,944.81,0.46,955.57,Día
+589,Pasta,1034.53,0.56,1863.64,Noche
+590,Pizza,1035.16,0.57,592.58,Día
+591,Sandwich,1414.87,,703.35,Día
+592,Comida Casera,1332.29,0.47,687.62,Día
+593,Ensalada,1020.71,0.51,1005.64,Día
+594,Comida Casera,1034.58,0.58,749.07,Noche
+595,Sushi,1234.54,0.52,480.72,Día
+596,Vegana,877.86,0.45,815.8,Día
+597,Sandwich,1049.31,0.48,725.68,Noche
+598,Sushi,1052.9,0.55,733.06,Día
+599,Vegana,1192.1,0.54,845.14,Día
+600,Empanada,1145.32,0.62,677.62,Día
+601,Sushi,1169.7,0.55,861.58,Noche
+602,Empanada,1192.91,0.5,799.81,Noche
+603,Hamburguesa,962.59,0.55,655.63,Noche
+604,Empanada,1090.63,0.51,655.35,Noche
+605,Pizza,1054.57,0.45,760.04,Día
+606,Hamburguesa,1031.87,0.45,738.64,Noche
+607,Sushi,1142.17,0.49,598.16,Noche
+608,Pizza,1174.63,0.48,751.68,Día
+609,Comida Casera,959,0.51,670.56,Día
+610,Papa Frita,1058.33,0.52,862.05,Día
+611,Ensalada,909.14,0.55,853.69,Día
+612,Pizza,1232.34,0.5,747.18,Día
+613,Papa Frita,1300.13,0.41,692.19,Día
+614,Empanada,1006.13,0.43,745.87,Día
+615,Hamburguesa,1175.82,0.47,813.61,Noche
+616,Pasta,1226.57,0.56,690.49,Noche
+617,Sushi,963.98,0.5,544.67,Día
+618,Hamburguesa,1171.16,0.52,778.67,Día
+619,Comida Casera,,0.52,,Noche
+620,Sandwich,1336.26,0.49,666.1,Noche
+621,Sushi,1045.61,0.52,779.81,Noche
+622,Ensalada,1324.48,0.5,803.43,Noche
+623,Ensalada,1034.63,0.42,758.95,Noche
+624,Papa Frita,906.09,0.47,904.06,Noche
+625,Sushi,1322.3,0.56,788.12,Noche
+626,Vegana,1312.07,0.58,774.05,Noche
+627,Pizza,1240.3,0.46,922.94,Día
+628,Empanada,1305.29,0.45,748.15,Día
+629,Empanada,1074.85,0.47,855.65,Noche
+630,Ensalada,1020.75,0.48,614.46,Día
+631,Ensalada,951.33,0.57,722.8,Día
+632,Sushi,821.89,0.49,664.05,Día
+633,Sushi,1036.24,,707.28,Día
+634,Ensalada,872.57,0.51,748.94,Noche
+635,Sushi,927.51,0.47,718.44,Noche
+636,Empanada,1131.02,0.49,695.25,Noche
+637,Hamburguesa,1114.71,0.48,745.04,Día
+638,Pizza,2280.01,0.48,1804.8,Día
+639,Papa Frita,1014.41,0.52,785.83,Día
+640,Comida Casera,1226.18,0.47,813.43,Noche
+641,Comida Casera,945.63,0.49,837.04,Noche
+642,Empanada,1100.8,0.56,723.82,Día
+643,Comida Casera,1176.87,0.59,848.36,Noche
+644,Pizza,922.02,0.45,867.95,Día
+645,Sushi,1068.46,0.6,798.24,Día
+646,Ensalada,1223,0.53,583.25,Día
+647,Sushi,1229.89,0.58,724.04,Noche
+648,Sandwich,969.72,0.55,804.47,Día
+649,Pasta,1118.41,0.61,891.4,Noche
+650,Vegana,958.24,0.42,710.75,Noche
+651,Hamburguesa,872.34,0.48,723.55,Día
+652,Sushi,1107.53,0.43,710.21,Día
+653,Pasta,991.89,0.5,817.4,Noche
+654,Pasta,1015.07,0.52,586.92,Noche
+655,Comida Casera,1043.99,0.45,8.24,Día
+656,Ensalada,1113.1,0.49,658.23,Noche
+657,Pizza,1043.39,0.53,708.19,Día
+658,Empanada,1035.46,0.44,720.39,Noche
+659,Comida Casera,1060.47,0.46,813.33,Noche
+660,Pasta,1055.58,0.53,787.21,Noche
+661,Sushi,1220.07,0.78,533.61,Noche
+662,Pasta,951.11,0.79,749.6,Día
+663,Sandwich,1057.76,0.72,673.86,Noche
+664,Ensalada,1278.38,0.82,765.68,Noche
+665,Comida Casera,1028.66,0.79,792.18,Día
+666,Papa Frita,1199.03,0.81,817.46,Día
+667,Ensalada,1093.44,0.78,742.55,Día
+668,Sandwich,1346.77,0.75,672.26,Noche
+669,Vegana,1053.59,0.78,1772.52,Noche
+670,Papa Frita,1306.22,0.86,868.92,Noche
+671,Pizza,1819.56,0.75,1306.02,Noche
+672,Empanada,1844.12,0.86,1164.75,Noche
+673,Vegana,1701.45,0.86,1254.11,Noche
+674,Hamburguesa,1764.33,0.85,1264.68,Día
+674,Hamburguesa,1764.33,0.85,1264.68,Día
+675,Vegana,1738.78,0.85,1423.96,Noche
+676,Vegana,1632.49,0.81,1036.79,Día
+677,Empanada,1872.67,0.8,1246.23,Día
+678,Sushi,1710.38,0.76,1211.58,Noche
+679,Pasta,1426.09,0.78,1233.81,Día
+680,Sushi,1545.94,0.7,1306.94,Día
+681,Papa Frita,1685.24,,1230.28,Día
+682,Pizza,1697.98,0.78,1159.74,Día
+683,Papa Frita,1388.3,0.74,1184.54,Noche
+684,Sushi,1639.2,0.78,1295.14,Día
+685,Empanada,1545.8,0.8,1154.78,Día
+686,Pasta,1876.84,0.71,1318.32,Día
+687,Pasta,1579.37,0.73,1161.34,Día
+688,Papa Frita,1676.55,0.8,1105.51,Noche
+689,Ensalada,1752.98,0.83,1228.84,Noche
+690,Vegana,1874.55,0.82,1139.64,Día
+691,Pasta,1603.58,0.75,1250.68,Día
+692,Ensalada,1754.75,0.72,1340.58,Día
+693,Ensalada,1523.42,0.76,1121.69,Noche
+694,Empanada,1772.31,0.79,1241.61,Día
+695,Comida Casera,1424.12,0.72,1056.43,Día
+696,Sandwich,1698.84,0.86,1320.08,Noche
+697,Papa Frita,1728.56,0.78,1154.15,Noche
+698,Hamburguesa,1951.78,0.76,1122.15,Día
+699,Pizza,1694.86,0.75,1273.35,Noche
+700,Sushi,1694.54,0.82,1226.32,Día
+701,Pasta,1525.14,0.88,1188.39,Noche
+702,Ensalada,1875.37,0.9,1227.85,Día
+703,Sushi,1924.41,0.69,1283.98,Día
+704,Hamburguesa,1717.25,0.78,1346.96,Día
+705,Sandwich,1591.71,0.79,1237.57,Día
+706,Comida Casera,1570.59,0.78,1301.13,Día
+707,Comida Casera,1612.84,0.75,1115.97,Noche
+708,Hamburguesa,1693.32,0.86,1163.25,Noche
+709,Sandwich,1660.41,0.77,1186.59,Día
+710,Empanada,1668.43,0.68,1162.14,Día
+711,Sushi,1516.28,0.88,1187.68,Noche
+712,Ensalada,1767.03,0.85,1234.19,Día
+713,Hamburguesa,1482.47,0.74,1219.44,Noche
+714,Papa Frita,1605.9,0.77,1215.3,Día
+715,Vegana,1740.81,0.73,1308.28,Día
+716,Vegana,1863.67,0.82,1253.1,Noche
+717,Hamburguesa,1822.9,0.77,1194.37,Día
+718,Sushi,1787.29,0.81,1246.52,Noche
+719,Sandwich,1748.03,0.9,1123.54,Día
+720,Hamburguesa,1660.96,0.82,1186.72,Día
+721,Empanada,1545.76,0.82,1289.15,Día
+722,Vegana,1674.22,0.79,1378.62,Día
+723,Vegana,1715.39,0.82,1189.26,Noche
+724,Hamburguesa,1917.92,0.84,1197.2,Noche
+725,Vegana,1650.46,0.83,1231.52,Noche
+726,Comida Casera,1788.12,0.75,1067.17,Día
+727,Sandwich,1756.79,0.74,1342.37,Noche
+728,Pasta,1775.95,0.78,1091.62,Noche
+729,Hamburguesa,1653.13,,1074.9,Día
+730,Ensalada,1819.43,0.81,1172.66,Día
+731,Papa Frita,1661.69,0.8,1328.72,Día
+732,Empanada,1590.91,0.82,1207.45,Noche
+733,Pasta,1819.72,0.83,1303.24,Día
+734,Comida Casera,1584.74,0.81,1293.43,Noche
+735,Empanada,2074.69,0.81,1188.75,Noche
+736,Comida Casera,1793.36,0.82,1159.67,Día
+737,Hamburguesa,1685.14,0.87,1397.23,Día
+738,Papa Frita,1725.82,0.82,1482.47,Noche
+739,Sandwich,1604.31,0.87,1136.54,Día
+740,Hamburguesa,1868.53,0.75,1127.84,Noche
+741,Sushi,1592.74,0.81,1158.4,Noche
+742,Ensalada,1691.31,0.89,1275.29,Día
+743,Pasta,1891.45,0.83,1194.1,Noche
+744,Sandwich,1778.05,0.83,1215.16,Día
+745,Sushi,1660.36,0.83,1130.19,Día
+746,Sandwich,1830.36,0.77,1161.13,Noche
+747,Pasta,1502.88,0.83,1289.5,Noche
+748,Empanada,1803.45,0.84,1223.1,Noche
+749,Vegana,1641.94,0.75,1149.25,Noche
+750,Sushi,1572.04,0.83,1137.36,Día
+751,Empanada,1784.8,0.82,1216.44,Día
+752,Pasta,1638.96,0.77,1197.32,Noche
+753,Sandwich,1609.11,0.81,1257.13,Noche
+754,Empanada,1647.99,0.72,1145.4,Día
+755,Papa Frita,1606,0.81,1336.91,Noche
+756,Sandwich,1677.19,0.77,1371.82,Noche
+757,Sushi,1506.66,0.72,1145.5,Noche
+758,Pasta,1667.76,0.84,1295.79,Día
+759,Pasta,1591.44,0.8,1124.49,Día
+760,Sushi,1634.15,0.87,1301.08,Noche
+761,Ensalada,1759.47,0.83,1235.18,Noche
+762,Sandwich,1763.98,0.78,1130.94,Noche
+763,Pizza,1860.91,0.83,1253.66,Día
+764,Comida Casera,1857.51,0.79,1065.16,Noche
+765,Empanada,1540.86,0.79,1359.91,Noche
+766,Sandwich,1745.8,0.78,1234.58,Día
+767,Sushi,1440.49,0.86,1014.94,Noche
+768,Pizza,1805.08,0.85,1415.7,Noche
+769,Comida Casera,1868.42,0.86,1266.59,Noche
+770,Pasta,1758.36,0.76,1267.96,Noche
+771,Pasta,1759.99,,1202.93,Noche
+772,Pasta,1797.01,0.83,1221.01,Día
+773,Ensalada,1647.42,0.76,1235.33,Noche
+774,Papa Frita,1735.93,0.8,1170.22,Día
+775,Pasta,1313.02,0.88,1195.04,Noche
+776,Vegana,1821.91,0.77,1281.47,Noche
+777,Ensalada,1721.21,0.83,1324.97,Noche
+777,Ensalada,1721.21,0.83,1324.97,Noche
+778,Vegana,1675.19,0.84,1307.06,Día
+779,Ensalada,1778.78,0.82,1196.98,Día
+780,Sushi,1724.74,0.68,1178.71,Día
+781,Sushi,1552.59,0.82,1262.06,Noche
+782,Pizza,1774.1,0.82,1388.26,Día
+783,Hamburguesa,1749.02,0.82,1158.54,Día
+784,Empanada,1670.1,0.81,1410.39,Día
+785,Sushi,1672.42,0.74,1150.44,Día
+786,Sushi,1839.04,0.82,1249.07,Día
+787,Ensalada,1733.74,0.74,1133.3,Noche
+788,Papa Frita,1771.16,0.73,1395.64,Noche
+789,Vegana,,0.85,,Noche
+790,Empanada,1591.32,0.81,1346.16,Noche
+791,Vegana,1598.84,0.78,1326.79,Día
+792,Sushi,1827.59,0.76,1299.49,Noche
+793,Vegana,1873.16,0.78,1201.27,Noche
+794,Ensalada,1739.93,0.84,1172.78,Día
+795,Vegana,1557.59,0.77,1341.9,Día
+796,Ensalada,1767.73,0.79,1160.07,Día
+797,Vegana,1639.73,0.69,1122.19,Noche
+798,Comida Casera,1884.46,0.77,1230.46,Noche
+799,Vegana,1812.93,0.76,1282.89,Noche
+800,Pizza,1619.97,0.8,1309.31,Noche
+801,Pasta,1462.77,0.74,1219.07,Noche
+802,Comida Casera,2001.14,0.76,1208.28,Día
+803,Comida Casera,1754.87,0.79,1258.73,Noche
+804,Sandwich,1514.66,0.76,1424.82,Noche
+805,Hamburguesa,1473.88,0.79,1176.1,Noche
+806,Pizza,1667.23,0.85,1367.26,Día
+807,Comida Casera,1732.47,0.75,1314.85,Noche
+808,Pasta,1702.8,0.78,1271.6,Día
+809,Ensalada,1522.79,0.8,1392,Noche
+810,Pasta,1521.57,0.79,1311.5,Noche
+811,Vegana,1709.13,0.82,1245.29,Noche
+812,Hamburguesa,1547.74,0.81,1198.81,Noche
+813,Papa Frita,1794.97,,1278.71,Noche
+814,Pasta,1678.64,0.76,1268.18,Día
+815,Ensalada,1557.09,0.76,1331.85,Noche
+816,Papa Frita,1613.73,0.79,1151.72,Día
+817,Sandwich,1819.17,0.88,1238.09,Noche
+818,Comida Casera,1687.53,0.71,1142,Día
+819,Papa Frita,1817.42,0.79,1160.05,Noche
+820,Empanada,1741.3,0.86,1251.01,Día
+821,Empanada,1694.27,0.81,1247.53,Día
+822,Papa Frita,1713.22,0.77,1282.87,Día
+823,Ensalada,1633.17,0.86,1275.38,Noche
+824,Sandwich,1583.22,0.81,1245.66,Noche
+825,Empanada,1765.49,0.84,1277.96,Día
+826,Sushi,1597.02,0.76,1244.86,Día
+827,Hamburguesa,1562.39,0.87,1368.49,Día
+828,Sushi,1643.95,0.79,1359.58,Día
+829,Vegana,1773,0.74,1272.46,Día
+830,Pasta,1571.96,0.75,1144.46,Día
+831,Sushi,1746.57,0.87,1224.62,Día
+832,Pasta,1517.7,0.88,1150.87,Día
+833,Hamburguesa,1417.2,0.78,1205.52,Noche
+834,Vegana,1791.88,0.74,1209.82,Día
+835,Pasta,1662.21,0.84,1289.32,Día
+836,Pizza,1980.17,0.71,1246.86,Día
+837,Empanada,1774.17,0.8,1191.06,Día
+838,Empanada,1845.24,0.8,1093.88,Día
+839,Papa Frita,1681.09,0.73,1308.49,Noche
+840,Sushi,1602.83,0.78,1205.74,Noche
+841,Papa Frita,1809.63,0.79,1210.68,Día
+842,Sushi,1652.42,0.78,1323.76,Noche
+843,Vegana,1665.61,0.77,1297.4,Día
+844,Papa Frita,1844.98,0.88,1333.06,Noche
+845,Vegana,1532.54,0.78,1324.49,Día
+846,Comida Casera,1776.58,0.8,1459.08,Noche
+847,Pizza,1632.18,0.81,1324.88,Noche
+848,Papa Frita,1589.8,0.81,1357.85,Día
+849,Ensalada,1699.58,0.84,1346.94,Día
+850,Vegana,1587.42,0.79,1398.53,Noche
+851,Vegana,1623.28,0.79,1040.61,Día
+852,Papa Frita,1565.08,0.83,1194.35,Noche
+853,Vegana,1811.75,0.78,1183.71,Día
+854,Ensalada,1993.02,0.82,1249.85,Noche
+855,Sushi,1744.75,,1134.64,Día
+856,Pasta,1704.8,0.76,1357.8,Día
+857,Comida Casera,1843.2,0.78,1274.34,Noche
+858,Empanada,1792.19,0.81,1047.39,Día
+859,Papa Frita,1738.11,0.75,1292.46,Día
+860,Sushi,1918.06,0.72,1182,Noche
+861,Pizza,1713.6,0.75,1300.34,Noche
+862,Papa Frita,1629.06,0.76,1296.77,Día
+863,Papa Frita,1872.67,0.81,1171.94,Noche
+864,Sandwich,1460.86,0.8,1233.02,Día
+865,Pizza,1841.84,0.79,1250.5,Día
+866,Sushi,1516.84,0.87,1240.04,Día
+867,Vegana,1493.74,0.83,1306.18,Noche
+868,Empanada,1719.04,0.82,1417.1,Noche
+869,Hamburguesa,1865.25,0.84,1377.67,Día
+870,Empanada,1784.27,0.84,1053.05,Noche
+871,Hamburguesa,1459.27,0.76,1283.53,Día
+872,Sandwich,1690.86,0.76,1182.97,Noche
+873,Sushi,1707.36,0.81,1353.96,Día
+874,Pasta,1437.86,0.92,1347.42,Día
+875,Empanada,1809.54,0.79,1267.36,Noche
+876,Ensalada,1671.05,0.88,1300.42,Noche
+877,Pasta,1767.82,0.86,1173.26,Noche
+878,Hamburguesa,1798.04,0.82,1457.72,Día
+879,Hamburguesa,1734.5,0.79,1280.35,Noche
+880,Ensalada,1611.23,0.75,915.86,Noche
+881,Vegana,1625.24,0.76,1371.44,Noche
+882,Sandwich,1680.55,0.73,1261.62,Noche
+883,Sushi,1624.9,0.81,1478.45,Noche
+884,Ensalada,1575.36,0.77,1215.61,Noche
+885,Comida Casera,1820.89,0.79,1111.67,Noche
+886,Comida Casera,1777.68,0.88,1089.96,Día
+887,Sandwich,1626.03,0.82,1136.1,Día
+888,Empanada,1605.84,0.74,1266.98,Día
+889,Ensalada,1720.76,0.82,1289.92,Día
+890,Papa Frita,1544.34,0.85,1195.09,Día
+891,Ensalada,1801.87,0.79,1179.22,Día
+892,Pasta,1760.98,0.9,1283.48,Día
+893,Comida Casera,1588.02,0.73,1373.57,Noche
+894,Pizza,1770.27,0.78,1189.27,Noche
+895,Pasta,1611.35,0.84,1205.77,Noche
+896,Hamburguesa,1732.09,0.75,1257.62,Noche
+897,Papa Frita,1599.51,0.81,1381.7,Noche
+898,Pasta,1921.49,0.81,1110.05,Noche
+899,Vegana,1579.42,0.73,1305.77,Noche
+900,Pizza,1656.01,0.78,1256.15,Día
+901,Hamburguesa,1729.54,0.87,1294.77,Noche
+901,Hamburguesa,1729.54,0.87,1294.77,Noche
+902,Vegana,1714.1,0.84,1125.13,Noche
+903,Sushi,1872.31,,1395.48,Noche
+904,Sushi,1689.08,0.73,1194.79,Noche
+905,Sushi,1579.25,0.79,1346.69,Día
+906,Pasta,1665.28,0.71,1367.05,Noche
+907,Sushi,1623.96,0.88,1259.31,Noche
+908,Comida Casera,1883.92,0.74,1165.53,Noche
+909,Hamburguesa,1756.41,0.79,1041.28,Día
+910,Ensalada,1588.51,0.76,1265,Día
+911,Sandwich,1620.67,0.87,1313.93,Día
+912,Ensalada,1424.26,0.86,1301.77,Noche
+913,Papa Frita,1659.76,0.87,1126.64,Día
+914,Sushi,1614.75,0.83,1461.85,Noche
+915,Sandwich,1773.57,0.93,1218.52,Día
+916,Papa Frita,1820.07,0.77,1330.11,Noche
+917,Papa Frita,1843.22,0.85,1356.09,Día
+918,Pizza,1724.71,0.72,1325.36,Día
+919,Empanada,1893.44,0.73,1170.38,Día
+920,Hamburguesa,1572.69,0.71,1362.66,Día
+921,Papa Frita,1673.16,0.81,1231.03,Noche
+922,Hamburguesa,1655.82,0.75,1191.22,Día
+923,Sandwich,1748.69,0.77,1175.34,Día
+924,Hamburguesa,1734.7,0.88,1296.88,Noche
+925,Comida Casera,1637.46,0.78,1281.1,Noche
+926,Comida Casera,1722.13,0.74,1257.39,Noche
+927,Sandwich,1700.98,0.72,1356.45,Día
+928,Sushi,1879.04,0.81,1255.51,Noche
+929,Sandwich,1687.24,0.77,1279.38,Noche
+930,Sandwich,1945.46,0.8,1204.64,Día
+931,Pasta,1625.17,0.8,1261.42,Noche
+932,Hamburguesa,1789.47,0.78,1213.47,Día
+933,Papa Frita,1638.66,0.79,1255.18,Noche
+934,Papa Frita,1858.28,0.72,1242.51,Día
+935,Sandwich,1588.53,0.74,1066.62,Día
+936,Sushi,1533.1,0.75,1341.81,Día
+937,Pasta,2026.71,0.81,1079.41,Día
+938,Vegana,1582.37,0.87,1282.89,Día
+939,Vegana,1753.2,0.9,1271.74,Noche
+940,Comida Casera,1589.65,0.81,1327.68,Día
+941,Pizza,1742.95,0.77,1163.09,Día
+942,Comida Casera,1402.92,0.83,1333.78,Día
+943,Sushi,,0.84,,Día
+944,Hamburguesa,1784.32,0.81,1294.65,Día
+945,Hamburguesa,1714.69,0.74,1435.46,Día
+946,Ensalada,1810.64,0.85,1198.73,Día
+947,Papa Frita,1576.68,0.88,1161.44,Noche
+948,Hamburguesa,1681.6,0.75,1457.26,Noche
+949,Ensalada,1744.23,0.79,1326.09,Día
+950,Hamburguesa,1716.29,0.81,1401.59,Noche
+951,Pasta,1693.95,,1275.15,Noche
+952,Hamburguesa,1596.65,0.89,1201.94,Día
+953,Papa Frita,1587.44,0.87,1133.01,Día
+954,Hamburguesa,1660.13,0.75,1188.77,Noche
+955,Sushi,1832.01,0.84,1343,Noche
+956,Comida Casera,1736.89,0.72,1278.19,Noche
+957,Sushi,1758.15,0.84,1227.28,Día
+958,Pasta,1673.4,0.71,1348.81,Día
+959,Sandwich,1802.6,0.76,1282.07,Día
+960,Comida Casera,1660.03,0.77,1289.11,Día
+961,Sushi,1698.47,0.86,1198.44,Noche
+962,Sandwich,1617.19,0.82,1086.73,Día
+963,Sushi,1649.75,0.88,1429.34,Día
+964,Hamburguesa,1676.04,0.84,1247.21,Día
+965,Empanada,1858.07,0.84,1213.72,Noche
+966,Papa Frita,1692.57,0.87,1418.32,Día
+967,Sandwich,2013.01,0.78,1239.38,Día
+968,Ensalada,1732.64,0.82,1179.21,Día
+969,Pasta,1665.64,0.77,1229.13,Día
+970,Empanada,1527.12,0.88,1185.52,Día
+971,Vegana,1737.17,0.8,1320.14,Noche
+972,Papa Frita,1630.22,0.86,1305.55,Noche
+973,Pizza,1675.22,0.78,1214.77,Día
+974,Comida Casera,1831.95,0.75,1118.22,Noche
+975,Sushi,1590.13,0.8,1383.37,Día
+976,Ensalada,1526.3,0.76,1079.19,Noche
+977,Pasta,1646.04,0.81,1243.76,Noche
+978,Sushi,1633.4,0.88,1175.94,Día
+979,Comida Casera,1708.09,0.8,1179.29,Día
+979,Comida Casera,1708.09,0.8,1179.29,Día
+980,Ensalada,1613.18,0.84,1112.54,Noche
+981,Pizza,1742.25,0.77,1027.05,Noche
+982,Sandwich,1739.42,0.92,1293.02,Día
+983,Ensalada,1643.35,0.87,1166.04,Día
+984,Sushi,1633.01,0.8,1284.49,Noche
+985,Pasta,1600.2,0.82,1141.66,Noche
+986,Ensalada,1536.02,0.76,1289.26,Día
+987,Empanada,1808.21,0.74,1242.39,Día
+988,Vegana,1487.83,0.83,1015.99,Día
+989,Hamburguesa,1961.64,0.78,1272.76,Día
+990,Pasta,1640.34,0.74,1239.08,Día
+991,Comida Casera,1475.14,0.76,1286.01,Noche
+992,Sushi,1617.61,0.79,1320.64,Día
+993,Hamburguesa,1949.28,,1148.18,Noche
+994,Vegana,1578.42,0.79,1129.61,Noche
+995,Sushi,1620.57,0.82,1236.29,Noche
+996,Pizza,1724.12,0.85,1266.09,Noche
+997,Pasta,,0.81,,Noche
+998,Papa Frita,1674.53,0.7,1341.02,Noche
+999,Sushi,1587.35,0.8,1292.02,Noche
+1000,Pasta,1606.93,0.79,1182.53,Noche
