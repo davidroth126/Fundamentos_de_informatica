@@ -1,0 +1,43 @@
+body{
+margin: 0;
+padding: 0;
+background-color: lightgreen;
+
+}
+
+
+.Titulo{
+    margin-left: 700px;
+    margin-right: 600px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+    background-color: lightblue;
+    color: white;
+    
+    margin-bottom: 50px;
+    font-size: 40px;
+    
+}
+
+h2{
+    background-color: blue;
+    color: yellow;
+    font-size: 20px;
+
+}
+
+.foto{
+    margin-left: 550px;
+    height: 292px;
+
+}
+
+
+.footer{
+    font-size: 26px;
+    margin-top: 427px;
+    margin-left: 792px;
+}

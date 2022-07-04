@@ -2,7 +2,7 @@ body{
     margin-left: 20px;
 }
 
-.titulo{
+h1{
     margin-left: 20px;
     background-color: green;
     border:black 3px dotted;

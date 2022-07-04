@@ -1,0 +1,40 @@
+body {
+margin: 0;
+padding: 0;
+background-color: blue;
+
+}
+
+
+
+
+h1{background-color: red;
+width:26%;
+margin-left: -1% ;
+height: 61px;
+padding-top: 10px; ;
+padding-left: 28px;
+font-size: 44px;
+}
+
+.header{
+    background-color: blue;
+    height: 18vw;
+}
+
+h2{
+    color: white;
+    padding: 0 0 0 20%;
+    font-size: 20px;
+}
+.sucursales{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 15vw;
+}
+
+.sucursales div{
+    padding-left: 9%;
+    padding-top: 2%;
+}
+/* es un comentario */
