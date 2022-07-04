@@ -19,8 +19,14 @@ print(breeds.json()["message"][11])
 
 Boxer = (breeds.json()["message"][11])
 
-with open("recursos/cocker_cute.png", 'w') as file:  
-    file.write(str("https:\/\/images.dog.ceo\/breeds\/boxer\/28082007167-min.jpg"))
+foto = requests.get("https://dog.ceo/api/breed/boxer/images")
 
- # "https:\/\/images.dog.ceo\/breeds\/boxer\/28082007167-min.jpg"
+foto1 = (foto.json()["message"][0])
+
+
+
+with open("cocker_cute.png", 'a') as file:  
+    file.write(str(foto1))
+
+ #https:\/\/images.dog.ceo\/breeds\/boxer\/28082007167-min.jpg"
 
